@@ -86,7 +86,7 @@ class WebSocket
         for ($i = 0; $i < sizeof($fdVals); $i++) {
             $sortArr[$fdVals[$i]] = $fdKeys[$i];
         }
-        //根据客户端连接fd升序排列
+        //根据客户端连接fd升序排列 
         ksort($sortArr);
         return $sortArr;
     }
