@@ -26,7 +26,7 @@ class WebSocket
     }
 
     /**
-     * 聊天室初始化
+     * 聊天室初始化11111
      */
     public function chatInit()
     {
