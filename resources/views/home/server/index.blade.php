@@ -23,7 +23,7 @@
         .chat-online-group ul li img{border-radius: 50%}
         .chat-online-group-last-info{font-size: 12px;color: rgb(153,153,160);margin-top: 5px;}
         .chat-online-person{height:580px;overflow: hidden;}
-        .chat-online-person ul{height:580px;overflow-y: scroll;font-size: 14px;}
+        .chat-online-person ul{height:580px;overflow-y: scroll;font-size: 14px;width: 300px;}
         .chat-online-person ul::-webkit-scrollbar {/*滚动条整体样式*/
             width: 10px;     /*高宽分别对应横竖滚动条的尺寸*/
             height: 1px;
@@ -153,8 +153,7 @@
 
         //websocket连接服务器
         function getWebSocket(userName){
-            //wsServer = 'ws://192.168.2.128:9502/?userName=' + userName;
-            wsServer = 'ws://118.24.148.110:9502/?userName=' + userName;
+            wsServer = 'ws://123.207.178.26:9502/?userName=' + userName;
             websocket = new WebSocket(wsServer);
             websocket.onopen = function (evt) {
                 appendHtml();
@@ -367,6 +366,8 @@
                 chatWithFd:_chat.attr('fd')
             };
             console.log(data);
+            console.log(JSON.stringify(data));
+            console.log(websocket);
             websocket.send(JSON.stringify(data));
             _input.val('');
             appendHtml();

@@ -28,6 +28,7 @@
             <a href="/nav" @if(isset($flag) && $flag == 'nav')class="active"@endif>导航</a>
             <a href="/business" @if(isset($flag) && $flag == 'business')class="active"@endif>商城</a>
             <a href="/server" @if(isset($flag) && $flag == 'server')class="active"@endif>聊天室</a>
+            <a href="/api/" @if(isset($flag) && $flag == 'api')class="active"@endif>Gin-Api</a>
             {{--<a href="/about" @if(isset($flag) && $flag == 'about')class="active"@endif>关于</a>--}}
         </div>
         <ul class="layui-nav header-down-nav">

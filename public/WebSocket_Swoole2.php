@@ -5,7 +5,7 @@ require 'RedisPool.php';
 
 class WebSocket
 {
-    //创建websocket服务器对象，监听0.0.0.0:9502端口
+    //创建websocket服务器对象，监听0.0.0.0:9502端口口口口
     private $port = 9502;
     private $host = '0.0.0.0';
     private $config = ['host' => '127.0.0.1', 'port' => 6379];
@@ -86,7 +86,7 @@ class WebSocket
         for ($i = 0; $i < sizeof($fdVals); $i++) {
             $sortArr[$fdVals[$i]] = $fdKeys[$i];
         }
-        //根据客户端连接fd升序排列 
+        //根据客户端连接fd升序排列
         ksort($sortArr);
         return $sortArr;
     }
