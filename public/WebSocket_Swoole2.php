@@ -5,7 +5,7 @@ require 'RedisPool.php';
 
 class WebSocket
 {
-    //创建websocket服务器对象，监听0.0.0.0:9502端口口口口
+    //创建websocket服务器对象，监听0.0.0.0:9502端口口口口111
     private $port = 9502;
     private $host = '0.0.0.0';
     private $config = ['host' => '127.0.0.1', 'port' => 6379];
