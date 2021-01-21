@@ -5,7 +5,7 @@ require 'RedisPool.php';
 
 class WebSocket
 {
-    //创建websocket服务器对象，监听0.0.0.0:9502端口口口口111112222333
+    //创建websocket服务器对象，监听0.0.0.0:9502端口口口口
     private $port = 9502;
     private $host = '0.0.0.0';
     private $config = ['host' => '127.0.0.1', 'port' => 6379];
@@ -26,7 +26,7 @@ class WebSocket
     }
 
     /**
-     * 聊天室初始化11111
+     * 聊天室初始化
      */
     public function chatInit()
     {
