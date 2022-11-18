@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:40:33.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g5Nvtp5kOCe0JWlSn1zP" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:41:27.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yd1XWT18EtA6fKw0X8Is" version="20.0.4" type="github">
   <diagram id="5u_I20kp-ltAw45HvMxO" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-150" value="资源每一帧进行&lt;br&gt;二进制对比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="110" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-152" value="正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#003300;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-152" value="正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="162" y="770" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;fontColor=#003300;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-150" target="ZY3pr037ozbbT6UlzbB4-140">
