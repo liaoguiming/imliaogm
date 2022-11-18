@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:38:41.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0C3NoXCVFs_dZAFU1zbW" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:40:33.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g5Nvtp5kOCe0JWlSn1zP" version="20.0.4" type="github">
   <diagram id="5u_I20kp-ltAw45HvMxO" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
           <mxGeometry x="145" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-55" value="脚本执行流水线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="330" y="390" width="120" height="30" as="geometry" />
+          <mxGeometry x="390" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-59" value="提效方案" style="swimlane;fontSize=14;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="985" height="1120" as="geometry">
@@ -147,7 +147,7 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-42" target="ZY3pr037ozbbT6UlzbB4-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-149" value="不为&lt;br&gt;正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#003300;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-149" value="不为&lt;br&gt;正常" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="8.5" y="620" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#003300;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-150" target="ZY3pr037ozbbT6UlzbB4-153">
@@ -175,10 +175,10 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-153" value="表示该资源在对比任务C中未修改&lt;br&gt;需要标记出来&lt;br&gt;不进行人工检查" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;rounded=1;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="110" y="970" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-155" value="不存在差异" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#003300;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-155" value="不存在差异" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="162" y="915" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-158" value="存在&lt;br&gt;差异帧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#003300;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-158" value="存在&lt;br&gt;差异帧" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="220" y="720" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#003300;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-159" target="ZY3pr037ozbbT6UlzbB4-161">
@@ -190,7 +190,7 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-161" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_mysql_instance;labelBackgroundColor=#009900;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="800" y="216" width="98" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-163" value="修改标记字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#003300;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-163" value="修改标记字段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="840" y="660" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-172" value="gamepic" style="swimlane;labelBackgroundColor=#FFFFFF;fontSize=14;fontColor=#003300;fillColor=#FFFFFF;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
