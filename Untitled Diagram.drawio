@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:29:09.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KsO4BDamWakRryNTVsoh" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:32:36.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4ZBPV-UycvA_tVQyLoZn" version="20.0.4" type="github">
   <diagram id="5u_I20kp-ltAw45HvMxO" name="Page-1">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-59" value="提效方案" style="swimlane;fontSize=14;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="985" height="1120" as="geometry">
-            <mxRectangle x="640" y="590" width="100" height="30" as="alternateBounds" />
+            <mxRectangle x="640" y="580" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-38" value="对比任务C&lt;br&gt;场景、画质" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
@@ -102,7 +102,7 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-28" value="对比任务C&lt;br&gt;所属节点N1" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="371.5" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-42" value="匹配&lt;br&gt;相同场景画质的&lt;br&gt;对比任务D" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-42" value="关联节点下&lt;br&gt;相同场景画质的&lt;br&gt;对比任务D" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
           <mxGeometry x="371.5" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-115" value="获取到&lt;br&gt;关联节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
@@ -135,7 +135,7 @@
         <mxCell id="ZY3pr037ozbbT6UlzbB4-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-135" target="ZY3pr037ozbbT6UlzbB4-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZY3pr037ozbbT6UlzbB4-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-135" target="ZY3pr037ozbbT6UlzbB4-140">
+        <mxCell id="ZY3pr037ozbbT6UlzbB4-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#003300;" edge="1" parent="ZY3pr037ozbbT6UlzbB4-59" source="ZY3pr037ozbbT6UlzbB4-135" target="ZY3pr037ozbbT6UlzbB4-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-135" value="对比任务C" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" vertex="1" parent="ZY3pr037ozbbT6UlzbB4-59">
