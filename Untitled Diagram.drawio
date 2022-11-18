@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:20:14.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wpRYdC5641XVBvfW9xfv" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T09:22:15.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GJ0BXUp54QSBv9gzOBA0" version="20.0.4" type="github">
   <diagram id="5u_I20kp-ltAw45HvMxO" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="700" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,28 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-1" value="" style="html=1;verticalLabelPosition=middle;align=center;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontSize=14;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="315" width="18" height="30" as="geometry" />
+          <mxGeometry x="200" y="385" width="18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-2" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: 微软雅黑; font-size: 21px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;美术精准对比节点二进制提效方案&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="670" y="100" width="340" height="40" as="geometry" />
+          <mxGeometry x="820" y="200" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZY3pr037ozbbT6UlzbB4-3" target="ZY3pr037ozbbT6UlzbB4-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-3" value="上传资源A" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" source="ZY3pr037ozbbT6UlzbB4-5" target="ZY3pr037ozbbT6UlzbB4-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-5" value="" style="html=1;verticalLabelPosition=middle;align=center;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;fontSize=14;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="425" width="18" height="30" as="geometry" />
+          <mxGeometry x="200" y="495" width="18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;" parent="1" source="ZY3pr037ozbbT6UlzbB4-7" target="ZY3pr037ozbbT6UlzbB4-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-7" value="上传资源B" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="ZY3pr037ozbbT6UlzbB4-23" target="ZY3pr037ozbbT6UlzbB4-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-23" value="生成对比任务C" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="330" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-31" value="执行流水线" style="swimlane;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="258.75" y="545" width="261.25" height="1050" as="geometry" />
+          <mxGeometry x="418.75" y="615" width="261.25" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-9" value="AB资源每一帧&lt;br&gt;二进制对比" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;fontSize=14;labelPosition=center;verticalLabelPosition=middle;align=center;" parent="ZY3pr037ozbbT6UlzbB4-31" vertex="1">
           <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="145" y="130" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-55" value="脚本执行流水线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="390" y="465" width="120" height="30" as="geometry" />
+          <mxGeometry x="550" y="535" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-59" value="提效方案" style="swimlane;fontSize=14;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="640" y="655" width="985" height="1120" as="geometry">
+          <mxGeometry x="800" y="725" width="985" height="1120" as="geometry">
             <mxRectangle x="640" y="580" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -201,24 +201,24 @@
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-101" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1.067;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZY3pr037ozbbT6UlzbB4-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="895" as="sourcePoint" />
-            <mxPoint x="640" y="699" as="targetPoint" />
+            <mxPoint x="960" y="965" as="sourcePoint" />
+            <mxPoint x="800" y="769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#FFFFFF;" parent="1" source="ZY3pr037ozbbT6UlzbB4-38" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="1115" as="targetPoint" />
+            <mxPoint x="1230" y="1185" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="890" y="1115" />
-              <mxPoint x="1070" y="1115" />
+              <mxPoint x="1050" y="1185" />
+              <mxPoint x="1230" y="1185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#FFFFFF;" parent="1" source="ZY3pr037ozbbT6UlzbB4-145" target="ZY3pr037ozbbT6UlzbB4-140" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="660" y="1365" />
-              <mxPoint x="660" y="1225" />
+              <mxPoint x="820" y="1435" />
+              <mxPoint x="820" y="1295" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -226,14 +226,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-145" value="资源在对比任务D&lt;br&gt;中的标记状态" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="749.25" y="1335" width="120" height="60" as="geometry" />
+          <mxGeometry x="909.25" y="1405" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FFFFFF;" parent="1" source="ZY3pr037ozbbT6UlzbB4-140" target="ZY3pr037ozbbT6UlzbB4-145" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZY3pr037ozbbT6UlzbB4-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#003300;" parent="1" source="ZY3pr037ozbbT6UlzbB4-161" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="920" as="targetPoint" />
+            <mxPoint x="1230" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
