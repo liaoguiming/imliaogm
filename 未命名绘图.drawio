@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T08:56:41.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sJMmv2d4uqdMAcq7fJ2u" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T08:57:42.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="85LdF_kpNsd0Rk4jQ3Rl" version="20.5.3" type="github">
   <diagram id="NkGCQQUoN7iNL30MbBBT" name="第 1 页">
     <mxGraphModel dx="2749" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="413" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1tBA6Kivxf9OA4HflHP-99" value="上传任务A1" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
+        <mxCell id="l1tBA6Kivxf9OA4HflHP-99" value="上传资源A1" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1065" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1tBA6Kivxf9OA4HflHP-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l1tBA6Kivxf9OA4HflHP-101" target="l1tBA6Kivxf9OA4HflHP-107">
@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1tBA6Kivxf9OA4HflHP-101" value="上传任务B1" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
+        <mxCell id="l1tBA6Kivxf9OA4HflHP-101" value="上传资源B1" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="1600" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l1tBA6Kivxf9OA4HflHP-107" value="上传记录B和B1包含的资源进行对比&lt;br&gt;资源下的每一帧都进行二进制对比&lt;br&gt;汇总每一帧的结果" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#0080F0;labelBackgroundColor=#ffffff;strokeWidth=2;shadow=0;dashed=0;" vertex="1" parent="1">
